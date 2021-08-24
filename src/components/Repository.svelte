@@ -31,9 +31,4 @@
   .repo small {
     font-size: 0.75rem;
   }
-
-  .repo img {
-    width: 50px;
-    height: 50px;
-  }
 </style>
